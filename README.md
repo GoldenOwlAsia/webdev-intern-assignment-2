@@ -39,7 +39,7 @@ You can use any front-end library/framework like React, Angular, Vue, ... or jus
   - [https://fonts.google.com/specimen/Rubik?query=Rubik](https://fonts.google.com/specimen/Rubik?query=Rubik)
 
 ### Backend: 
-You can use any back-end library/framework like Laravel(PHP), Ruby on Rail, NestJS (NodeJs), Django (Python), ... or a structure that you come up with yourself
+Choose one of your applied back-end libraries/frameworks: Laravel(PHP), Ruby on Rail, NestJS (NodeJs), Django (Python), ... or a structure that you come up with yourself
 
 - OOP programming for object-oriented languages
 
