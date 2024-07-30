@@ -39,9 +39,13 @@ You can use any front-end library/framework like React, Angular, Vue, ... or jus
   - [https://fonts.google.com/specimen/Rubik?query=Rubik](https://fonts.google.com/specimen/Rubik?query=Rubik)
 
 ### Backend: 
-Choose one of your applied back-end libraries/frameworks: Laravel(PHP), Ruby on Rail, NestJS (NodeJs), Django (Python), ... or a structure that you come up with yourself
-
+Choose one of your applied back-end libraries/frameworks: Laravel(PHP), Ruby on Rail, NestJS (NodeJs), Django (Python), ... or a structure that you come up with yourselt. 
+Need form validation and logic tightening.
 - OOP programming for object-oriented languages
+- For JS intern you need to have: 
+  * Use Type, Interface, Omit, Partial...
+  * Webhooks (useState, useEffect, useCallback...)
+- DB: You can use postgreSQL, Mysql, Redis... to manage or cache the data. 
 
 ### Deployment
 Some providers allow free deployment for the trial version  (note: Maybe some suppliers will update their policies and prices)
