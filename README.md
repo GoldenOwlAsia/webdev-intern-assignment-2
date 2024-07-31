@@ -43,7 +43,7 @@ Choose one of your applied back-end libraries/frameworks: Laravel(PHP), Ruby on 
 Need form validation and logic tightening.
 - OOP programming for object-oriented languages
 - For JS intern you need to have: 
-  * Use Type, Interface, Omit, Partial...
+  * Use TypeScipt (Type, Interface, Omit, Partial...)
   * Webhooks (useState, useEffect, useCallback...)
 - DB: You can use postgreSQL, Mysql, Redis... to manage or cache the data. 
 
