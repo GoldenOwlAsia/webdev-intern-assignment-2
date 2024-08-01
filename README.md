@@ -44,7 +44,7 @@ Need form validation and logic tightening.
 - OOP programming for object-oriented languages
 - For JS intern you need to have: 
   * Use TypeScript (Type, Interface, Omit, Partial...)
-  * Webhooks (useState, useEffect, useCallback...)
+  * React Hooks (useState, useEffect, useCallback...)
 - DB: You can use postgreSQL, Mysql, Redis... to manage or cache the data. 
 
 ### Deployment
