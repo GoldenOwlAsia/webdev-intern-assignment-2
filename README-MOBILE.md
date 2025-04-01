@@ -6,6 +6,7 @@ Template example
 ![Screenshot](./screenshots/screenshot.png)
 
 # Requirements
+The UI must follow the Template example from the test
 Use service from api provider https://www.weatherapi.com  (free version)  
 
 Create a new account and get a new api key.
