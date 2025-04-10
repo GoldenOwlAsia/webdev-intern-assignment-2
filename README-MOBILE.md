@@ -6,6 +6,8 @@ Template example
 ![Screenshot](./screenshots/screenshot.png)
 
 # Requirements
+**You must follow the `Template example UI` above. Otherwise, you will be disqualified.**
+
 Use service from api provider https://www.weatherapi.com  (free version)  
 
 Create a new account and get a new api key.
